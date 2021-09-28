@@ -34,7 +34,6 @@
 | 10 	| Github flow (branchs, PRs) | recommended 	|
 | 10 	| Responsive | optional 	|
 | 10 	| Fast deliver (within 2 weeks) | optional 	|
-| 10 	| Deliver within 2 weeks | optional 	|
 | 10 	| Web storage API (i.e. localStorage, sessionStorage) | optional 	|
 
 **Minimum points to pass: 80** 
