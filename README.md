@@ -38,6 +38,10 @@
 
 **Minimum points to pass: 80** 
 
+## Project timeline
+
+3 weeks maximum!
+
 ## Resources
 
 ### Public APIs
